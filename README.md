@@ -1,6 +1,5 @@
-# Identification Script
-Basic Identification Script, Might add some ACE Permissions down the track so only departmental members can view the ID.
+Pretty simple ID script
+NO ACE perms yet.
 
-1. Just drag and drop the resource
-2. "start [resourcename]" into your server.cfg
-3. Enjoy
+Put in resources
+start the file in server.cfg
